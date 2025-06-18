@@ -15,6 +15,8 @@ Future Work:
 - Export annotated video clips for coaching workflows
 - Extend team classification beyond jersey color via clustering embeddings
 
+
+
 #### Credits
 This project was inspired by and built upon the work of Abdullah Tarek – https://github.com/abdullahtarek
 
