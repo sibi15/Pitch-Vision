@@ -9,6 +9,12 @@ Key Features:
 - Perspective correction and camera stabilization
 - Speed and distance estimation
 
+Future Work
+- Integrate event detection (goals, fouls, passes)
+- Add top-down tactical map visualization
+- Export annotated video clips for coaching workflows
+- Extend team classification beyond jersey color via clustering embeddings
+
 #### Credits
 This project was inspired by and built upon the work of Abdullah Tarek – https://github.com/abdullahtarek
 
