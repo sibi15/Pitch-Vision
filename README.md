@@ -11,7 +11,4 @@ Key Features:
 
 #### Credits
 This project was inspired by and built upon the work of Abdullah Tarek – https://github.com/abdullahtarek
-
-Original Repository: https://github.com/abdullahtarek/football_analysis
-
 All credit goes to the original author for the foundational work. This repository is a modified and extended version for learning and research purposes.
