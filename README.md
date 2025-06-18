@@ -9,7 +9,7 @@ Key Features:
 - Perspective correction and camera stabilization
 - Speed and distance estimation
 
-Future Work
+Future Work:
 - Integrate event detection (goals, fouls, passes)
 - Add top-down tactical map visualization
 - Export annotated video clips for coaching workflows
